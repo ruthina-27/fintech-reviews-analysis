@@ -1,0 +1,81 @@
+--- Analysis for CBE ---
+Average Rating: 4.07
+Top Drivers (Positive Keywords):
+- app: 86
+- good: 42
+- best: 24
+- cbe: 20
+- nice: 18
+- great: 14
+- like: 14
+- use: 14
+- bank: 13
+- banking: 13
+
+Top Pain Points (Negative Keywords):
+- app: 25
+- banking: 7
+- good: 6
+- bank: 6
+- screenshot: 6
+- network: 5
+- cbe: 5
+- developer: 5
+- one: 4
+- security: 4
+
+
+--- Analysis for Bank of Abyssinia ---
+Average Rating: 2.73
+Top Drivers (Positive Keywords):
+- app: 22
+- good: 15
+- boa: 13
+- bank: 9
+- great: 9
+- best: 8
+- please: 6
+- application: 5
+- like: 5
+- use: 5
+
+Top Pain Points (Negative Keywords):
+- app: 130
+- bank: 31
+- work: 29
+- mobile: 23
+- please: 22
+- even: 21
+- banking: 21
+- worst: 19
+- use: 18
+- ever: 17
+
+
+--- Analysis for Dashen Bank ---
+Average Rating: 4.34
+Top Drivers (Positive Keywords):
+- app: 177
+- dashen: 85
+- banking: 67
+- super: 66
+- bank: 57
+- one: 47
+- fast: 43
+- easy: 38
+- use: 37
+- best: 37
+
+Top Pain Points (Negative Keywords):
+- app: 22
+- good: 7
+- bank: 7
+- slow: 7
+- working: 7
+- work: 6
+- ever: 5
+- transactions: 5
+- mobile: 4
+- banking: 4
+
+
